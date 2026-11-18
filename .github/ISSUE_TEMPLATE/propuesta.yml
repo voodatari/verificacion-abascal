@@ -1,0 +1,31 @@
+name: Proponer un hecho para verificar
+description: ¿Se dijo algo comprobable en la entrevista que no está verificado? Cuéntanos qué y dónde.
+title: "Propuesta: "
+labels: ["propuesta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por proponer. Necesitamos **qué se dijo, en qué minuto y un enlace con el dato para contrastarlo**. Se revisa con el mismo criterio para todos los invitados.
+  - type: input
+    id: minuto
+    attributes:
+      label: ¿Quién lo dijo y en qué minuto?
+      description: Por ejemplo, «Abascal, 0:41:00».
+    validations:
+      required: true
+  - type: textarea
+    id: hecho
+    attributes:
+      label: ¿Qué se dijo?
+      description: Copia la frase tal cual aparece en la transcripción, si puedes.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes
+      description: Pega uno o varios enlaces que permitan comprobarlo. Mejor de organismos oficiales (INE, BOE, ministerios…) o de medios conocidos.
+      placeholder: https://…
+    validations:
+      required: true

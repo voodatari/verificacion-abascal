@@ -1,0 +1,45 @@
+{
+ "nota": "Lo que otros verificadores profesionales publicaron sobre el mismo dato dicho por el candidato en otro momento (mismo_dato). Solo entra una pieza si trata esa afirmación concreta; un artículo general sobre el tema no cuenta. veredicto_medio es la etiqueta del propio medio, copiada tal cual. Estas piezas son de elDiario.es, que comprobó lo que Abascal dijo en La Revuelta (TVE); no son de Newtral ni de Maldita.es, que no han publicado una comprobación de esta entrevista que yo haya encontrado.",
+ "enlaces": [
+  {
+   "id": "m1951",
+   "medio": "elDiario.es",
+   "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+   "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+   "veredicto_medio": "Falso",
+   "alcance": "mismo_dato"
+  },
+  {
+   "id": "m1346",
+   "medio": "elDiario.es",
+   "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+   "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+   "veredicto_medio": "Falso",
+   "alcance": "mismo_dato"
+  },
+  {
+   "id": "m939",
+   "medio": "elDiario.es",
+   "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+   "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+   "veredicto_medio": "Engañoso",
+   "alcance": "mismo_dato"
+  },
+  {
+   "id": "m1355",
+   "medio": "elDiario.es",
+   "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+   "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+   "veredicto_medio": "Engañoso",
+   "alcance": "mismo_dato"
+  },
+  {
+   "id": "m932",
+   "medio": "elDiario.es",
+   "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+   "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+   "veredicto_medio": "Falso",
+   "alcance": "mismo_dato"
+  }
+ ]
+}

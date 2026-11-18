@@ -1,0 +1,31 @@
+name: Avisar de un error
+description: ¿Crees que una afirmación está mal verificada? Mándanos una fuente que lo demuestre.
+title: "Error en: "
+labels: ["corrección"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por avisar. Solo necesitamos **un enlace que muestre el dato correcto**. Lo revisamos con el mismo criterio para todos los partidos.
+  - type: input
+    id: afirmacion
+    attributes:
+      label: ¿Qué afirmación?
+      description: Si vienes desde la web, ya está rellenado. Si no, pon quién lo dijo y el minuto (por ejemplo, «Abascal, 0:41:00»).
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes
+      description: Pega uno o varios enlaces que muestren lo que de verdad pasó. Mejor de organismos oficiales (INE, BOE, ministerios…) o de medios conocidos.
+      placeholder: https://…
+    validations:
+      required: true
+  - type: textarea
+    id: comentario
+    attributes:
+      label: ¿Qué está mal? (opcional)
+      description: Si quieres, cuéntalo en una frase.
+    validations:
+      required: false

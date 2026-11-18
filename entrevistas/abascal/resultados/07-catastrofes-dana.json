@@ -1,0 +1,24 @@
+[
+ {
+  "minuto": "0:58:36",
+  "cita": "no podemos ver a un gobierno rechazando la ayuda internacional como ocurrió por ejemplo en La Habana, únicamente por cálculo político para destruir.",
+  "afirmacion": "El Gobierno rechazó la ayuda internacional durante la DANA por puro cálculo político.",
+  "veredicto": "enganoso",
+  "explicacion": "La transcripción automática dice «La Habana»; por el contexto, Abascal se refiere a la DANA de Valencia. La Comisión Europea ofreció desde el principio activar el mecanismo de protección civil, pero el Gobierno sostiene que lo debe solicitar quien dirige la emergencia (la Generalitat) y lo activó el 8 de noviembre de 2024, cuando la Generalitat lo pidió; llegaron equipos de Portugal y Francia. Hubo una discusión real sobre quién debía pedir la ayuda y sobre su retraso, pero no hay prueba de que el Gobierno la rechazara «por cálculo político».",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Ministerio del Interior: ayuda internacional DANA (12 de noviembre de 2024)",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/2024/121124-ayuda-internacional-dana.aspx"
+   },
+   {
+    "titulo": "Libertad Digital: Marlaska pide ayuda a Europa diez días después de la catástrofe y a petición de la Generalitat",
+    "url": "https://www.libertaddigital.com/espana/2024-11-08/marlaska-pide-ayuda-a-europa-diez-dias-despues-de-la-catastrofe-y-a-peticion-de-la-generalidad-7184491/"
+   },
+   {
+    "titulo": "Onda Vasca: Interior afirma que la Generalitat Valenciana tardó 10 días en pedir la ayuda internacional",
+    "url": "https://www.ondavasca.com/interior-afirma-que-la-generalitat-valenciana-tardo-10-dias-en-pedir-la-ayuda-internacional/amp/"
+   }
+  ]
+ }
+]

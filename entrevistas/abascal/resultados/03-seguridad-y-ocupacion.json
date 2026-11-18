@@ -1,0 +1,20 @@
+[
+ {
+  "minuto": "0:27:26",
+  "cita": "como ocurrió el otro día en Vitoria, que iban a montar un nuevo caso Mari Carmen que le salió regular, porque resulta que era el imán de las cárceles del País Vasco, con seis hijos, con 2.500 euros de ayudas sociales",
+  "afirmacion": "En Vitoria, un inquilino que era el imán de las cárceles del País Vasco, con seis hijos y 2.500 euros de ayudas sociales, se atrincheró en el piso de un español humilde.",
+  "veredicto": "no_verificable",
+  "explicacion": "El caso más parecido es el desahucio de una familia de ocho personas (seis menores) en Sansomendi, Vitoria, el 23 de octubre de 2026. Según El Salto, el propietario es un particular que reclamó la vivienda en 2021 para vivir en ella y el juzgado le dio la razón, y el padre trabaja para una multinacional en Vitoria: ninguna fuente que he encontrado dice que sea imán, que trabaje en prisiones ni que cobre 2.500 euros de ayudas. Puede que Abascal se refiera a otro caso o que tenga datos que no son públicos, así que no se puede confirmar ni desmentir.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "El Salto: La Ertzaintza carga en Gasteiz para ejecutar el desahucio de una familia con seis menores",
+    "url": "https://www.elsaltodiario.com/desahucios/ertzaintza-carga-sansomendi-ejecutar-desahucio-una-familia-seis-menores"
+   },
+   {
+    "titulo": "GasteizHoy: ¿Por qué se está desahuciando si hay un decreto antidesahucios?",
+    "url": "https://www.gasteizhoy.com/por-que-se-esta-desahuciando-si-hay-un-decreto-antidesahucios/"
+   }
+  ]
+ }
+]

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.m4a
+*.aac
+*.wav
+.modelos/
+node_modules/
+.DS_Store
+# la web se genera en CI (build.py) y se despliega con GitHub Pages
+web/

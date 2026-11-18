@@ -1,0 +1,4 @@
+{
+ "nota": "Temas que comparten varias entrevistas, para comparar a los candidatos. Cada tema agrupa capítulos del vídeo de cada entrevista (números de capitulos.json, empezando en 1). Un tema solo sale en la web si lo tratan al menos dos candidatos. Con una sola entrevista publicada no sale ninguno.",
+ "temas": []
+}

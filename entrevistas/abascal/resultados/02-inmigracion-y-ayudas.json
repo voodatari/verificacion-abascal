@@ -1,0 +1,68 @@
+[
+ {
+  "minuto": "0:22:26",
+  "cita": "Hay casi un 50% de extranjeros extracomunitarios en España que no cotizan a la seguridad social.",
+  "afirmacion": "Casi la mitad de los extranjeros extracomunitarios en España no cotizan a la Seguridad Social.",
+  "veredicto": "enganoso",
+  "explicacion": "Un análisis de ABC cruzando afiliación (diciembre de 2024) y padrón (enero de 2025) halló que alrededor del 50 % de los extracomunitarios de 20 a 64 años no figuraba afiliado (44 % entre todos los extranjeros). Pero no estar afiliado no equivale a no trabajar ni a vivir de ayudas: incluye a inactivos, estudiantes, cuidadores y personas en situación irregular, y es un dato de hace casi dos años. Según la EPA del segundo trimestre de 2026, el 69,6 % de los extranjeros de 16 o más años está activo y el 85,7 % de los activos está ocupado. La afiliación de extranjeros ha seguido creciendo hasta 3,7 millones en octubre de 2026.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Artículo 14: el 44 % de los inmigrantes en edad de trabajar no están afiliados (análisis de ABC con datos de Seguridad Social e INE)",
+    "url": "https://www.articulo14.es/economia/la-seguridad-social-confirma-que-el-44-de-inmigrantes-en-edad-de-trabajar-no-estan-afiliados-20261111.html"
+   },
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta (EPA 2T 2026)",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   },
+   {
+    "titulo": "Seguridad Social: afiliación de extranjeros, octubre de 2026",
+    "url": "https://revista.seg-social.es/-/afiliacion-extranjeros-octubre-2026"
+   }
+  ]
+ },
+ {
+  "minuto": "0:22:35",
+  "cita": "Y hay muchísimos recibiendo ayudas sociales que no llegan a los españoles.",
+  "afirmacion": "Muchos extranjeros reciben ayudas sociales que no llegan a los españoles.",
+  "veredicto": "enganoso",
+  "explicacion": "Los extranjeros son entre el 17 % y el 17,5 % de los titulares del Ingreso Mínimo Vital (unos 2,7 millones de personas lo recibían en julio de 2026) y el 28,9 % de las rentas de inserción autonómicas; son minoría, aunque algo por encima de su peso en la población (en torno al 15 %). Las ayudas dependen de la renta y de la residencia legal, no de que «lleguen o no» a los españoles; y los regularizados recientes ni los irregulares pueden pedir el IMV. No hay datos nacionales por nacionalidad exacta: el 17 % es de titulares con pasaporte extranjero.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Maldita.es: ingreso mínimo vital, españoles y extranjeros",
+    "url": "https://maldita.es/prebunking/20260710/ingreso-minimo-vital-espa%C3%B1oles-extranjeros/"
+   },
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   },
+   {
+    "titulo": "Ministerio de Inclusión: el IMV llega en julio a cerca de 2,7 millones de personas",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/070826-imv-julio.aspx"
+   }
+  ]
+ },
+ {
+  "minuto": "0:32:31",
+  "cita": "en los últimos 5 años han entrado 6 millones de personas a España",
+  "afirmacion": "En los últimos cinco años han entrado 6 millones de personas en España.",
+  "veredicto": "enganoso",
+  "explicacion": "El INE contabilizó 1,26 millones de inmigraciones desde el extranjero en 2022, 1,25 millones en 2023 y 1,29 millones en 2024 (3,8 millones en tres años), pero en esos mismos años salieron 0,53, 0,61 y 0,66 millones: el saldo neto fue de 0,6-0,7 millones al año. Las entradas incluyen a españoles que regresan. Y la población total de España pasó de 47,49 a 49,57 millones entre 2021 y 2026 (+2,1 millones, según elDiario.es con datos del INE). Con las entradas brutas de cinco años la cifra de 6 millones podría ser del orden correcto, pero no es el número de personas que «necesitan un techo» más.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "INE: Estadística de Migraciones y Cambios de Residencia 2024",
+    "url": "https://ine.es/dyngs/Prensa/EMCR2024.htm"
+   },
+   {
+    "titulo": "INE: Estadística Continua de Población, 2.º trimestre de 2026",
+    "url": "https://www.ine.es/dyngs/Prensa/ECP2T26.htm?print=1"
+   },
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   }
+  ]
+ }
+]

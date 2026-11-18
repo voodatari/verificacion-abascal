@@ -1,0 +1,96 @@
+[
+ {
+  "minuto": "0:32:38",
+  "cita": "hay un 52% de inquilinos en España que son extranjeros",
+  "afirmacion": "El 52 % de los inquilinos en España son extranjeros.",
+  "veredicto": "no_verificable",
+  "explicacion": "No he encontrado ninguna fuente que ofrezca esa cifra. Sí hay datos parciales: los hogares extranjeros viven de alquiler en una proporción muy superior a los españoles (un estudio de IDRA habla de 7 de cada 10 frente al 14 % de los hogares españoles), y los extranjeros son en torno al 15 % de la población. El INE no publica el reparto de todos los inquilinos por nacionalidad en esos términos, así que el 52 % no se puede comprobar.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "El Salto: siete de cada diez migrantes se ve en la necesidad de vivir de alquiler frente al 14 % de los hogares españoles (estudio de IDRA)",
+    "url": "https://www.elsaltodiario.com/alquiler/inmigracion-vivienda-discriminacion-prejuicio-estudio-idra"
+   },
+   {
+    "titulo": "INE: Estadística Continua de Población, 2.º trimestre de 2026",
+    "url": "https://www.ine.es/dyngs/Prensa/ECP2T26.htm?print=1"
+   }
+  ]
+ },
+ {
+  "minuto": "0:32:44",
+  "cita": "la vivienda se ha encarecido desde que Sánchez llegó en un 74% y el alquiler casi en un 50%",
+  "afirmacion": "Desde que Sánchez llegó al Gobierno, la vivienda se ha encarecido un 74 % y el alquiler casi un 50 %.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "Según idealista, el precio de la vivienda usada ha subido un 74,4 % desde junio de 2018 (hasta 2.930 €/m² en septiembre de 2026) y el alquiler un 45,2 %. Las cifras de Abascal coinciden con esa fuente, aunque son precios de oferta de un portal inmobiliario, no del índice oficial del INE, y el alquiler es algo inferior a «casi 50 %». El INE publica que la vivienda libre sube un 12,2-12,9 % anual en 2026, la mayor subida desde 2007, y 48 trimestres seguidos de alzas.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "ESdiario: desde 2018, el inquilino de La Moncloa acumula el récord de aumentos (precios de vivienda un 74 % más caros)",
+    "url": "https://www.esdiario.com/economia/261006/199562/precios-vivienda-ano-son-74-caros-sanchez-arranco-legislatura_amp.html"
+   },
+   {
+    "titulo": "idealista: el precio de la vivienda se dispara un 12,9 % hasta marzo y suma 12 años de subidas",
+    "url": "https://www.idealista.com/news/node/900859"
+   },
+   {
+    "titulo": "INE: Índice de Precios de Vivienda, 1.er trimestre de 2026",
+    "url": "https://ine.es/dyngs/Prensa/IPV1T26.htm?print=1"
+   }
+  ]
+ },
+ {
+  "minuto": "0:32:52",
+  "cita": "como consecuencia de los decretos aprobados esta semana, la ley Maricarmen esta la gente ante lo que venía que han hecho sacar las viviendas que tenían el alquiler de las plataformas se ha reducido la oferta prácticamente a la mitad",
+  "afirmacion": "Como consecuencia de los decretos de vivienda aprobados esta semana, la oferta de alquiler se ha reducido prácticamente a la mitad.",
+  "veredicto": "no_verificable",
+  "explicacion": "El Real Decreto-ley 26/2026 (función social de la vivienda y ampliación de la oferta asequible) se aprobó el 6 de octubre, la Diputación Permanente lo convalidó el 12 de noviembre y entró en vigor el 15 de noviembre, el día después de la entrevista. Prevé prórroga extraordinaria de contratos y exige causa real al alquiler de temporada. No he encontrado ningún dato que mida una caída de la oferta a la mitad ni que la atribuya al decreto: lo más cercano es una cita en el Congreso de que en torno al 50 % de la oferta de alquiler ha salido del mercado, sin la fuente. Además, la norma aún no estaba en vigor.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "Moncloa: Real Decreto-ley de medidas urgentes para el fomento y protección del derecho a la vivienda",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2026/decreto-vivienda-medidas.aspx"
+   },
+   {
+    "titulo": "Vozpópuli: Sánchez congela el decreto urgente de vivienda para forzar su entrada en vigor en plena campaña",
+    "url": "https://www.vozpopuli.com/espana/politica/sanchez-congela-el-decreto-urgente-de-vivienda-para-forzar-su-entrada-en-vigor-en-plena-campana.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:33:41",
+  "cita": "Creo que el dato es de 3,2 millones de españoles que están en la búsqueda de la vivienda y no la han encontrado.",
+  "afirmacion": "3,2 millones de españoles buscan vivienda y no la han encontrado.",
+  "veredicto": "no_verificable",
+  "explicacion": "Abascal lo dijo con cautela («igual me equivoco un poco»). No he encontrado la fuente de ese dato. Lo más parecido son encuestas de Fotocasa, que miden porcentajes de personas que querrían cambiar de vivienda (un 29 % en el segundo semestre de 2025, frente a un 7 % que la ofrece), no cuántos la buscan sin éxito.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "Fotocasa Pro: mayor desequilibrio entre oferta y demanda de vivienda de la serie",
+    "url": "https://blogprofesional.fotocasa.es/?p=17614"
+   }
+  ]
+ },
+ {
+  "minuto": "0:35:33",
+  "cita": "Impacto de género en la construcción En los planamientos de vivienda",
+  "afirmacion": "Los informes de impacto de género son un obstáculo burocrático para construir vivienda.",
+  "veredicto": "enganoso",
+  "explicacion": "No existe una obligación general estatal de incluir un informe de impacto de género en el planeamiento urbanístico; la exige la normativa de algunas comunidades (por ejemplo, la valenciana) y la jurisprudencia ha anulado planes que lo omitían. La Comunidad de Madrid, por ejemplo, señala que no está previsto en su normativa urbanística. Es un trámite que existe en parte del territorio, pero no se aplica a toda construcción en España.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Comunidad de Madrid: informe relativo a la tramitación de expedientes (el informe de impacto de género no está previsto en la normativa urbanística)",
+    "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/informe_relativo_tramitacion_expedientes.pdf"
+   },
+   {
+    "titulo": "Derecho Local: exigibilidad del informe de impacto de género en el planeamiento",
+    "url": "https://derecholocal.es/?p=715"
+   },
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   }
+  ]
+ }
+]

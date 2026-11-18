@@ -1,0 +1,118 @@
+[
+ {
+  "minuto": "0:11:37",
+  "cita": "Me denunciaron ante el Tribunal Supremo. ¿Cómo quedó eso? Bueno, lo archivaron.",
+  "afirmacion": "El Tribunal Supremo archivó la denuncia contra Abascal por decir que «el pueblo querrá colgar por los pies» a Sánchez.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "El Supremo inadmitió en septiembre de 2025 la querella del PSOE contra Abascal por delito de odio, injurias y amenazas por esa frase, dicha en una entrevista de diciembre de 2023. El tribunal apreció una oposición «frontal y radical» a Sánchez, pero sin relevancia penal. No fue una denuncia sin más: antes, la Fiscalía del Supremo había abierto diligencias en enero de 2024. «Archivar» es una simplificación de «inadmitir».",
+  "confianza": "alta",
+  "fuentes": [
+   {
+    "titulo": "Poder Judicial: el Tribunal Supremo inadmite una querella del PSOE contra Abascal por delito de odio, injurias y amenazas",
+    "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-inadmite-una-querella-del-PSOE-contra-el-diputado-de-VOX-Santiago-Abascal-por-delito-de-odio--injurias-y-amenazas"
+   },
+   {
+    "titulo": "El Independiente: Abascal no incita a la violencia al decir que el pueblo querrá colgar de los pies a Sánchez, según el Supremo",
+    "url": "https://www.elindependiente.com/espana/2025/09/17/abascal-no-incita-a-la-violencia-al-decir-que-el-pueblo-querra-colgar-de-los-pies-a-sanchez-segun-el-supremo/"
+   }
+  ]
+ },
+ {
+  "minuto": "0:12:23",
+  "cita": "un tipo intentó darme un puñetazo en Tarragona y fue reducido",
+  "afirmacion": "Un hombre intentó darle un puñetazo a Abascal en Tarragona y fue reducido.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "En septiembre de 2026, durante la visita de Abascal a la plaza Corsini de Tarragona, un hombre se le acercó, fue reducido por los escoltas y detenido por los Mossos d'Esquadra. La prensa lo describe como intento de agresión; no he encontrado confirmación oficial de que fuera un puñetazo (hay crónicas que hablan de un escupitajo) y el vídeo que difundió Abascal no muestra el momento. Maldita.es desmintió además que el detenido cobrara 2.500 euros.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Diari de Tarragona: tensión en la plaza Corsini en la visita de Santiago Abascal a Tarragona",
+    "url": "https://www.diaridetarragona.com/tarragona/270958/tension-placa-corsini-visita-santiago-abascal-tarragona.html"
+   },
+   {
+    "titulo": "El Demócrata: Aggression against Santiago Abascal, a man arrested after an incident during a Vox event in Tarragona",
+    "url": "https://www.democrata.es/en/politics/aggression-against-santiago-abascal-a-man-arrested-after-an-incident-during-a-vox-event-in-tarragona/"
+   },
+   {
+    "titulo": "Maldita.es: no hay rastro de que el agresor de Abascal en Tarragona cobrara 2.500 euros",
+    "url": "https://maldita.es/desinfo/20260924/el-agresor-de-santiago-abascal-en-tarragona-cobro-2-500-euros-y-los-mossos-encontraron-mensajes-sms-que-demostrarian-ese-pago/"
+   }
+  ]
+ },
+ {
+  "minuto": "0:13:44",
+  "cita": "construirlo de la nada y que hoy sea el tercer partido del país",
+  "afirmacion": "Vox es hoy el tercer partido de España.",
+  "veredicto": "verdadero",
+  "explicacion": "Los barómetros del CIS y los promedios de encuestas de la campaña del 29-N sitúan a Vox tercero, detrás de PSOE y PP (el CIS de noviembre le da alrededor del 18,8 % de voto estimado y el de mayo el 16,2 %). Es una afirmación sobre encuestas, no sobre resultados: la confirmarán o no las urnas.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "El Demócrata: el CIS sitúa al PSOE en cabeza con el 33 % y frustra la mayoría absoluta de un bloque PP-Vox",
+    "url": "https://www.democrata.es/politica/el-cis-situa-al-psoe-en-cabeza-con-el-33-y-frustra-la-mayoria-absoluta-de-un-bloque-pp-vox/"
+   },
+   {
+    "titulo": "Ara: ¿Qué dicen las encuestas de las elecciones españolas del 29-N?",
+    "url": "https://es.ara.cat/politica/dicen-encuestas-elecciones-espanolas-29-n_1_5874092.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:15:32",
+  "cita": "todos los años en España son asesinadas el mismo número de mujeres",
+  "afirmacion": "Cada año son asesinadas en España el mismo número de mujeres por violencia de género.",
+  "veredicto": "enganoso",
+  "explicacion": "Las cifras recientes son parecidas entre sí (58 asesinadas en 2023, unas 46-48 en 2024 y 2025), pero no son «el mismo número» y la tendencia a largo plazo es a la baja: elDiario.es calcula, con datos de Igualdad, que la media anual bajó de 62 en la primera década de la serie a 51 en la última (–17,6 %). Que cada año mueran mujeres no demuestra que las leyes no funcionen: faltaría saber cuántas morirían sin ellas.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   },
+   {
+    "titulo": "Onda Vasca: 2025 deja al menos 46 mujeres y tres menores asesinados por violencia de género",
+    "url": "https://www.ondavasca.com/2025-deja-al-menos-46-mujeres-y-tres-menores-asesinados-por-violencia-de-genero/"
+   },
+   {
+    "titulo": "The Objective: la mitad de los asesinatos de mujeres cometidos por extranjeros (2023: 26 de 58)",
+    "url": "https://theobjective.com/espana/2024-06-30/mitad-asesinatos-mujeres-cometidos-extranjeros/"
+   }
+  ]
+ },
+ {
+  "minuto": "0:15:39",
+  "cita": "y además la mitad de las asesinadas lo son por extranjeros",
+  "afirmacion": "La mitad de las mujeres asesinadas por violencia de género lo son por extranjeros.",
+  "veredicto": "enganoso",
+  "explicacion": "En 2023 fueron 26 de 58 asesinatos (44,8 %) y en el primer semestre de 2024 se llegó al 50 %, según datos de la Delegación del Gobierno recogidos por The Objective. Pero en 2026, según elDiario.es, el 66 % de los hombres que han matado a sus parejas o exparejas son españoles, es decir, alrededor de un tercio son extranjeros. Los extranjeros están sobrerrepresentados (son en torno al 15 % de la población), pero «la mitad» es el valor más alto de una serie que varía mucho de un año a otro.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "The Objective: la mitad de los asesinatos de mujeres cometidos por extranjeros",
+    "url": "https://theobjective.com/espana/2024-06-30/mitad-asesinatos-mujeres-cometidos-extranjeros/"
+   },
+   {
+    "titulo": "elDiario.es: las mentiras de Abascal en La Revuelta",
+    "url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:16:55",
+  "cita": "Francia con Marine Le Pen, que es el partido al que más respaldan los homosexuales",
+  "afirmacion": "En Francia, el partido de Marine Le Pen es el más respaldado por los homosexuales.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "Un sondeo de Ifop situaría al Rassemblement National como primera opción de voto entre los electores LGBT+ franceses, en torno al 27 % (diez puntos más que en 2022). Lo conozco solo a través de prensa secundaria, sin la ficha técnica ni la fecha exacta, y mide intención de voto para el candidato Bardella, no un respaldo histórico. Por eso la confianza es baja.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "ItaliaOggi: l'elettorato LGBTQ voterà per la Le Pen",
+    "url": "https://www.italiaoggi.it/economia-e-politica/opinioni/lelettorato-lgbtq-votera-per-la-le-pen-aqc3cuy3"
+   },
+   {
+    "titulo": "Gay45: Voting Against Themselves, LGBT votes for the far right in France and the UK",
+    "url": "https://gay45.eu/lgbtq-votes-for-far-right/"
+   }
+  ]
+ }
+]

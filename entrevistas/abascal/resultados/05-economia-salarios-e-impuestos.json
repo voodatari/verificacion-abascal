@@ -1,0 +1,114 @@
+[
+ {
+  "minuto": "0:36:16",
+  "cita": "se ha encarecido la vida, los salarios se han mantenido más o menos iguales, la gente cada vez pierde más poder adquisitivo",
+  "afirmacion": "Los salarios se han mantenido más o menos iguales y la gente pierde poder adquisitivo.",
+  "veredicto": "enganoso",
+  "explicacion": "Los salarios no se han mantenido iguales en términos nominales: el salario mínimo ha subido un 66 % entre 2018 y 2026 frente a una inflación acumulada del 25 %, y los convenios pactaron un 3,5 % de media en 2025. Lo que sí hay son estimaciones de pérdida de poder adquisitivo real desde 2018 que van de aproximadamente un 2 % (convenios) a un 7 % (salario medio, según el Informe Civismo), sobre todo por el golpe inflacionista de 2022. Es parcialmente cierto para el salario medio, pero falso para los salarios más bajos.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Xataka: España no ha parado de subir el SMI desde 2018",
+    "url": "https://www.xataka.com/empresas-y-economia/espana-no-ha-parado-subir-smi-2018-ha-dejado-fuera-juego-al-45-convenios-colectivos"
+   },
+   {
+    "titulo": "Fundación Civismo: informe sobre el SMI (mayo de 2026)",
+    "url": "https://civismo.org/wp-content/uploads/2026/05/Informe-Civismo_2026.05-CASME-SMI.pdf"
+   }
+  ]
+ },
+ {
+  "minuto": "0:36:31",
+  "cita": "de lo que a ti te cuesta cada trabajador, lo que él va a recibir. de renta disponible, después de todos los impuestos que hay que pagar, es la mitad.",
+  "afirmacion": "De lo que cuesta cada trabajador a la empresa, el trabajador recibe de renta disponible solo la mitad, después de todos los impuestos.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "La OCDE sitúa la cuña fiscal de España en el 41,4 % del coste laboral para un trabajador medio soltero sin hijos en 2025 (media de la OCDE: 35,1 %): el neto es en torno al 59 % del coste, no el 50 %. Si se cuentan además el IVA y otros impuestos que paga al consumir, la cifra se acercaría más a la mitad. Es una exageración moderada de un dato real: España está entre los países con más carga sobre el trabajo.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "El Español: la OCDE avisa de que el sueldo bruto sube pero los impuestos se comen la mejora",
+    "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260422/ocde-avisa-sueldo-bruto-espanoles-sube-impuestos-comen-mejora-restan-poder-adquisitivo/1003744216943_0.amp.html"
+   },
+   {
+    "titulo": "Artículo 14: por primera vez España entra en el top de países con más impuestos sobre los salarios",
+    "url": "https://www.articulo14.es/economia/por-primera-vez-en-la-historia-espana-entra-en-el-top-de-paises-con-mas-impuestos-sobre-los-salarios-20260423.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:37:17",
+  "cita": "con la mayor recaudación del Estado que ha habido nunca",
+  "afirmacion": "El Estado tiene la mayor recaudación de su historia.",
+  "veredicto": "verdadero",
+  "explicacion": "Los ingresos tributarios de 2025 fueron 325.356 millones de euros, un 10,4 % más que en 2024 y el máximo de la serie, según la Agencia Tributaria. Es un récord en euros corrientes: parte del aumento se debe a la inflación y a la no deflactación del IRPF, y la AIReF estima que esto aporta unos 1.800 millones adicionales al año. La segunda parte de la frase (servicios públicos «más degradados que nunca») es una valoración y no se evalúa.",
+  "confianza": "alta",
+  "fuentes": [
+   {
+    "titulo": "Agencia Tributaria: informe anual de recaudación 2025, resumen",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/recaudacion-tributaria/informe-anual/ejercicio-2025/resumen.html"
+   },
+   {
+    "titulo": "Artículo 14: los impuestos en España baten récord con Sánchez, Hacienda recauda ya más de 325.000 millones",
+    "url": "https://www.articulo14.es/economia/los-impuestos-en-espana-baten-record-con-sanchez-hacienda-recauda-ya-mas-de-325-000-millones-20260409.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:38:04",
+  "cita": "nuestro programa económico tiene el sello de Arthur Laffer",
+  "afirmacion": "El programa económico de Vox tiene el sello del economista Arthur Laffer.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "Laffer ha avalado en público el programa económico de Vox (en un vídeo en una asamblea del partido, según Vozpópuli) y participó en una jornada sobre desregulación organizada por Vox y la Fundación Disenso en el Congreso, con Abascal de anfitrión. No consta que sea asesor formal ni que haya escrito el programa: «tiene el sello» es una expresión figurada que se sostiene en esos avales puntuales.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Vozpópuli: el economista Arthur Laffer avala el programa económico de Vox",
+    "url": "https://www.vozpopuli.com/economia/el-economista-arthur-laffer-avala-el-programa-economico-de-vox.html"
+   },
+   {
+    "titulo": "ESdiario: Abascal arropa a Fernández-Calle en el Congreso y apuesta por desregular",
+    "url": "https://www.esdiario.com/nacional/260911/197512/abascal-arropa-fernandez-calle-congreso-apuesta-desregular-administracion-extremena.html"
+   }
+  ]
+ },
+ {
+  "minuto": "0:39:36",
+  "cita": "¿Cuánto cobra un presidente del gobierno? Un presidente del gobierno no es exactamente lo que cobra, pero debe ser 8.000 o 7.000 al mes",
+  "afirmacion": "El presidente del Gobierno cobra unos 7.000 u 8.000 euros al mes.",
+  "veredicto": "verdadero",
+  "explicacion": "El sueldo anual del presidente era de 90.010,20 euros brutos en 2026 con los presupuestos prorrogados (unos 7.500 euros al mes en doce pagas), según la prensa. Otras fuentes citan 93.145 o 95.944 euros anuales, que quedan dentro de esa horquilla mensual, y alguna incluye complementos hasta unos 98.000. Abascal lo dijo como cálculo aproximado y encaja.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "The Objective: cuánto dinero cobra el presidente de Aragón y Pedro Sánchez",
+    "url": "https://theobjective.com/espana/politica/2026-02-08/dinero-cobra-presidente-aragon-pedro-sanchez/"
+   },
+   {
+    "titulo": "El Cronista: los salarios del Gobierno, cuánto cobran Pedro Sánchez y sus principales ministros",
+    "url": "https://www.cronista.com/espana/economia-finanzas/estos-son-los-salarios-del-gobierno-cuanto-cobran-pedro-sanchez-y-sus-principales-ministros-en-comparacion-al-smi"
+   }
+  ]
+ },
+ {
+  "minuto": "1:01:38",
+  "cita": "Llevamos cuatro años sin cuentas en España",
+  "afirmacion": "España lleva cuatro años sin presupuestos.",
+  "veredicto": "mayormente_verdadero",
+  "explicacion": "Los últimos Presupuestos Generales aprobados son los de 2023, prorrogados en 2024, 2025 y 2026: tres prórrogas seguidas, y es la primera vez que una legislatura entera se cierra sin aprobar nuevos presupuestos. Contando el año de 2023 como parte del mismo ciclo, «cuatro años» se queda en tres prórrogas. Además, el Gobierno sostiene que sí hay presupuestos en vigor (los prorrogados).",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Diari de Tarragona: el Gobierno aprueba la prórroga por tercer año consecutivo de los presupuestos de 2023",
+    "url": "https://www.diaridetarragona.com/economia/248191/gobierno-aprueba-prorroga-tercer-ano-consecutivo-presupuestos-2023.html"
+   },
+   {
+    "titulo": "The Objective: el Gobierno prorroga un año más los presupuestos de 2023",
+    "url": "https://theobjective.com/espana/2025-12-23/gobierno-prorroga-ano-consecutivo-presupuestos-2023/"
+   },
+   {
+    "titulo": "ESdiario: primera vez en la historia que España cierra una legislatura entera sin PGE aprobados",
+    "url": "https://www.esdiario.com/economia/261005/199496/primera-vez-historia-espana-cierra-legislatura-entera-pge-aprobado.html"
+   }
+  ]
+ }
+]

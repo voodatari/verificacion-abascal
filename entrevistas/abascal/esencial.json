@@ -1,0 +1,25 @@
+{
+ "criterio": "Las afirmaciones con un dato concreto sobre los temas centrales de la campaña (inmigración, vivienda, violencia de género, impuestos), elegidas con el mismo criterio que en cualquier otro invitado, salgan bien o mal.",
+ "afirmaciones": [
+  {
+   "id": "m1951",
+   "por_que": "Inmigración: cuántas personas han entrado en cinco años."
+  },
+  {
+   "id": "m1346",
+   "por_que": "Inmigración y empleo: cuántos extracomunitarios no cotizan."
+  },
+  {
+   "id": "m1964",
+   "por_que": "Vivienda: cuánto han subido el precio y el alquiler."
+  },
+  {
+   "id": "m939",
+   "por_que": "Violencia de género: qué parte de las asesinadas lo son por extranjeros."
+  },
+  {
+   "id": "m2237",
+   "por_que": "Impuestos: si la recaudación es la mayor de la historia."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "minuto": "0:45:52",
+  "cita": "se ha convalidado el título de medicina a un montón de personas de las que no tenemos exactamente garantías de cuál es su formación",
+  "afirmacion": "Se ha convalidado el título de Medicina a un montón de personas de las que no hay garantías de su formación.",
+  "veredicto": "no_verificable",
+  "explicacion": "Es cierto que se han homologado muchos títulos extracomunitarios: según la OMC, más de 30.000 médicos extracomunitarios lograron la homologación en 2025, y siguen pendientes cerca de 45.000 solicitudes. Pero la homologación exige comprobar documentación y formación; el título homologado sin especialidad solo habilita para ejercer como médico de formación básica en la sanidad privada. No he encontrado el «escándalo de estos días» al que se refiere, ni pruebas de que los homologados carezcan de garantías, así que lo central no se puede comprobar.",
+  "confianza": "baja",
+  "fuentes": [
+   {
+    "titulo": "Maldita.es: la homologación de títulos de Medicina extranjeros, preguntas y respuestas",
+    "url": "https://maldita.es/prebunking/20260427/homologacion-titulos-medicina-extranjeros/"
+   },
+   {
+    "titulo": "Redacción Médica: la homologación médica estudia incorporar una ECOE a extracomunitarios",
+    "url": "https://www.redaccionmedica.com/secciones/medicina/la-homologacion-medica-se-estudia-incorporar-una-ecoe-a-extracomunitarios-4958"
+   }
+  ]
+ },
+ {
+  "minuto": "0:46:10",
+  "cita": "hay una ministra de Sanidad que persigue a los médicos que quieren trabajar tanto en la pública como en la privada",
+  "afirmacion": "La ministra de Sanidad persigue a los médicos que quieren trabajar tanto en la sanidad pública como en la privada.",
+  "veredicto": "enganoso",
+  "explicacion": "El Estatuto Marco aprobado por el Gobierno en junio de 2026 no prohíbe con carácter general que los médicos trabajen en la pública y en la privada. Las medidas de exclusividad que han trascendido afectan a cargos directivos y jefes de servicio y a los MIR durante sus primeros cinco años. El texto está en disputa con los sindicatos médicos y no he podido consultar la redacción final, así que el alcance exacto es incierto. «Perseguir» es una valoración; que haya limitaciones a la compatibilidad, en parte, es cierto.",
+  "confianza": "media",
+  "fuentes": [
+   {
+    "titulo": "Menorca.info: el Consejo de Ministros aprueba el Estatuto Marco en pleno conflicto con los médicos",
+    "url": "https://www.menorca.info/actualidad/nacional/2026/06/02/2641965/gobierno-aprueba-estatuto-marco-pleno-conflicto-los-medicos.html"
+   },
+   {
+    "titulo": "El Salto: la exclusividad para trabajar en la pública, bulos y verdades del nuevo Estatuto Marco",
+    "url": "https://www.elsaltodiario.com/sanidad-publica/exclusividad-medicos-trabajan-publica-debate"
+   },
+   {
+    "titulo": "Vozpópuli: malestar y enfado en el colectivo médico por la nueva reforma",
+    "url": "https://www.vozpopuli.com/economia/malestar-enfado-colectivo-medico-nueva-reforma-monica-garcia-sd.html"
+   }
+  ]
+ }
+]
